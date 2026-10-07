@@ -1,0 +1,17 @@
+{
+  "name": "THREADFORM — Good ideas. Great things to wear.",
+  "short_name": "THREADFORM",
+  "description": "Design it in minutes, wear it in days, no inventory needed.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8ec",
+  "theme_color": "#ff4d2e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
